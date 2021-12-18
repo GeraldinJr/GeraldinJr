@@ -1,6 +1,6 @@
 ### Hello, I'm Geraldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### A future full-stack developer.
+#### A full-stack developer.
 
 :mailbox: Get in touch!
 <div align = "center">
@@ -57,12 +57,6 @@
 
 </p>
 
-### ⭐ GitHub Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=GeraldinJr&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldinJr&hide=css,java,html&theme=tokyonight">
-</p>
 
 #### Profile Visits
 
